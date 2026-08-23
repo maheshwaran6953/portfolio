@@ -37,7 +37,7 @@ export const Project = [
         category: "Full Stack",
         image: agriconnectImg,
         githubLink: "https://github.com/maheshwaran6953/AgriConnect",
-        liveLink: "#",
+        liveLink: "https://agri-connect-bice-two.vercel.app/",
         tech: ["React", "Node.js", "PostgreSQL", "Prisma", "AI"]
     },
     {
